@@ -4,4 +4,10 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/Top
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is an item in your portfolio. It can have images or nice text.
+
+Here are some of my maps:
+
+![Map 1: Topography of Niamey](/images/Topograhy_Niamey.png)
+
+![Map 2: My New Map](/images/my_new_map.png)
