@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Topography of Niamey"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/Topograhy_Niamey.png'>"
 collection: portfolio
 ---
