@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Souleymane Maman Nouri Souley"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  # bio              : "Short biography for the left-hand sidebar"
+  location         : "Niamey, Bassora"
+  employer         : "Universidade Técnica Do Atlântico"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "souleymane.m@edu.wascal.org" 
 
   # Academic websites
   academia         : # URL
@@ -54,14 +54,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "soule9151"
+  # instagram        : "soule9151"
   lastfm           : # Username
   linkedin         : "souleymanemamannourisouley"
   mastodon         : # URL
@@ -69,7 +69,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "https://t.me/MSouleymane"
+  # telegram         : "https://t.me/MSouleymane"
   tumblr           : # Username
   twitter          : "NouriSoule22856"
   vine             : # Username
