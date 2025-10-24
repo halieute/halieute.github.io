@@ -1,5 +1,5 @@
 ---
-title: "ength-weight relationships and condition factors of Mormyridae species in the Niger River: implications for conservation and management"
+title: "Length-weight relationships and condition factors of Mormyridae species in the Niger River: implications for conservation and management"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
