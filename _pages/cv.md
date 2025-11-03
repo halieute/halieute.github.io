@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S.C. in Climate Change and Marine Sciences, Universidade Técnica Do Atlântico, 2025 (expected)
+* M.S.C. in Environmental Assessment and Sustainable Development, University of Diffa-Niger, 2023
+* B.S. in Environment and Ecology, University of Diffa-Niger, 2020
 
 Work experience
 ======
