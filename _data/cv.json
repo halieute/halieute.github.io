@@ -60,38 +60,82 @@
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+"Statistical analysis (R, Python, FiSAT II, Sphinx)",
+    "Cartography and GIS (QGIS, ArcGIS, PostGIS, Google Earth Engine)",
+    "Remote sensing (NASA ARSET training)",
+    "Molecular ecology (DNA barcoding, eDNA, PCR)",
+    "Marine microbiology and biogeochemistry",
+    "Science communication (video production and editing)",
+    "Data fusion and visualization",
+    "Field data collection (meteorological, oceanographic, ichthyological)"
+],
+  "languages": [
+    
+{
+      "language": "French",
+      "proficiency": "Advanced"
+    },
+    {
+      "language": "English",
+      "proficiency": "Intermediate"
+    }
+
+  ],
+  "interests": [
+    
+"Aquatic biodiversity and conservation",
+"Climate change and marine sciences",
+"Sustainable fisheries and aquaculture",
+"Remote sensing and Earth observation",
+"Youth engagement in environmental governance",
+"Open data and participatory mapping (OpenStreetMap)",
+"Science communication",
+"Marine microbiology and genomics"
+
+  ],
+  "references": [
+    
+{
+      "name": "Prof. Youssoufa Issiaka",
+      "title": "Professor CAMES",
+      "institution": "University Dan Dicko Dankoulodo de Maradi (Niger)",
+      "department": "Department of Rural Engineering, Water and Forestry",
+      "email": "youssoufa_maiga@yahoo.fr",
+      "phone": "+227 96 26 40 35"
+    },
+    {
+      "name": "Prof. Ali Mahaman",
+      "title": "Professor CAMES",
+      "institution": "Abdou Moumouni University (Niger)",
+      "department": "Faculty of Science and Technology",
+      "email": "ali_mahamane@yahoo.fr",
+      "phone": "+227 96 96 77 24"
+    }
+
+  ],
   "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+    
+{
+      "name": "Length-weight relationships and condition factors of Mormyridae species in the Niger River: implications for conservation and management",
+      "publisher": "Limnology and Freshwater Biology",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.31951/2658-3518-2025-A-2-215",
+      "summary": "This study analyzes the length-weight relationships and condition factors of Mormyridae species in the Niger River, providing insights for conservation and sustainable management."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Exploitation Parameters for the Mormyrus rume (Valenciennes, 1846) Population (Mormyridae fish) in the River Niger in Niamey (Niger, West Africa)",
+      "publisher": "Egyptian Journal of Aquatic Biology and Fisheries",
+      "releaseDate": "2024-10-01",
+      "website": "https://doi.org/10.21608/ejabf.2024.389789",
+      "summary": "This paper presents exploitation parameters for Mormyrus rume in the Niger River, contributing to the understanding of fishery dynamics and resource management."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "First Assessment of Mormyridae diversity and abundance in the Niger River at Niamey, Niger",
+      "publisher": "Moroccan Journal of Agricultural Sciences",
+      "releaseDate": "2024-10-01",
+      "website": "https://doi.org/10.5281/zenodo.14597360",
+      "summary": "This study provides the first comprehensive assessment of Mormyridae diversity and abundance in the Niger River at Niamey, highlighting ecological patterns and conservation needs."
     }
   ],
   "presentations": [
