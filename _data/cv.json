@@ -1,61 +1,61 @@
 {
   "basics": {
     "name": "Souleymane Maman Nouri Souley",
-    "email": "none@example.org",
+    "email": "ssouley@uta.cv",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://https://halieute.github.io/",
+    "summary": "My research on Niger River fisheries and marine phytoplankton-climate interactions (Eastern Tropical North Atlantic) has equipped me with a unique toolkit to study proglacial ecosystems. By combining molecular ecology, spatial analysis, and community engagement, I aim to investigate how glacier retreat reshapes alpine biodiversity while advancing conservation strategies that balance ecological and societal needs. My fluency in French and proficiency with remote sensing (NASA ARSET training) further position me to thrive in Switzerland’s multilingual, interdisciplinary research landscape.",
     "location": {
-      "address": "",
+      "address": "Niamey-Niger",
       "postalCode": "",
       "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "countryCode": "NER",
+      "region": "Niamey"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=ssHqsWQAAAAJ&hl=fr"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://orcid.org/0009-0007-9857-0392"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "halieute",
+        "url": "https://github.com/halieute"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Universidade Técnica Do Atlântico",
+      "area": "M.Sc in Climate Change and Marine Sciences",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Diffa",
+      "area": "M.S. in Environmental Assessment and Sustainable Development",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2021",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Diffa",
+      "area": "B.S. in Environment and Ecology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2016",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
