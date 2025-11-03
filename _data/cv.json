@@ -60,7 +60,11 @@
       "courses": []
     }
   ],
-  "skills": [{"Statistical analysis (R, Python, FiSAT II, Sphinx)"}],
+  "skills": [
+    {
+    "Statistical analysis (R, Python, FiSAT II, Sphinx)"
+    }
+  ],
   "languages": [
     {
       "language": "French",
