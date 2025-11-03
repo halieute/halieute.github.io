@@ -61,7 +61,7 @@
     }
   ],
   "skills": [
-"Statistical analysis (R, Python, FiSAT II, Sphinx)",
+    "Statistical analysis (R, Python, FiSAT II, Sphinx)",
     "Cartography and GIS (QGIS, ArcGIS, PostGIS, Google Earth Engine)",
     "Remote sensing (NASA ARSET training)",
     "Molecular ecology (DNA barcoding, eDNA, PCR)",
@@ -84,14 +84,14 @@
   ],
   "interests": [
     
-"Aquatic biodiversity and conservation",
-"Climate change and marine sciences",
-"Sustainable fisheries and aquaculture",
-"Remote sensing and Earth observation",
-"Youth engagement in environmental governance",
-"Open data and participatory mapping (OpenStreetMap)",
-"Science communication",
-"Marine microbiology and genomics"
+    "Aquatic biodiversity and conservation",
+    "Climate change and marine sciences",
+    "Sustainable fisheries and aquaculture",
+    "Remote sensing and Earth observation",
+    "Youth engagement in environmental governance",
+    "Open data and participatory mapping (OpenStreetMap)",
+    "Science communication",
+    "Marine microbiology and genomics"
 
   ],
   "references": [
