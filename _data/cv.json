@@ -66,10 +66,8 @@
       "keywords": [
         "Statistical analysis (R, Python, FiSAT II, Sphinx)",
         "Cartography and GIS (QGIS, ArcGIS, PostGIS, Google Earth Engine)",
-        "Remote sensing (NASA ARSET training)",
-        "Molecular ecology (DNA barcoding, eDNA, PCR)",
-        "Marine microbiology and biogeochemistry",
-        "Science communication (video production and editing)",
+        "Remote sensing",
+        "Science communication",
         "Data fusion and visualization",
         "Field data collection (meteorological, oceanographic, ichthyological)"
       ]
@@ -87,21 +85,22 @@
   ],
   "interests": [
     {
-      
-  "Aquatic biodiversity and conservation",
-  "Climate change and marine sciences",
-  "Sustainable fisheries and aquaculture",
-  "Remote sensing and Earth observation",
-  "Youth engagement in environmental governance",
-  "Open data and participatory mapping (OpenStreetMap)",
-  "Science communication",
-  "Marine microbiology and genomics"
-
+      "name": "Research Interests",
+      "keywords": [
+        "Aquatic biodiversity and conservation",
+        "Climate change and marine sciences",
+        "Sustainable fisheries and aquaculture",
+        "Remote sensing and Earth observation",
+        "Youth engagement in environmental governance",
+        "Open data and participatory mapping (OpenStreetMap)",
+        "Science communication",
+        "Marine microbiology and genomics"
+      ]
     }
+
   ],
   "references": [
-    
-{
+     {
       "name": "Prof. Youssoufa Issiaka",
       "title": "Professor CAMES",
       "institution": "University Dan Dicko Dankoulodo de Maradi (Niger)",
@@ -117,7 +116,6 @@
       "email": "ali_mahamane@yahoo.fr",
       "phone": "+227 96 96 77 24"
     }
-
   ],
   "publications": [
     
