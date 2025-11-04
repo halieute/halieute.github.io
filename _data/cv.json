@@ -143,57 +143,27 @@
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "name": "First Assessment of Mormyridae diversity and abundance in the Niger River at Niamey, Niger",
+      "event": "First International Conference of the Pan African University organized by PAULESI",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "location": "Ibadan, Nigeria",
+      "description": "Presented initial findings on Mormyridae diversity and abundance in the Niger River, establishing baseline data for conservation efforts."
+    },
+    {
+      "name": "Population of Mormyridae on the Niger River in Niamey Area: Diversity, Structure, and Exploitation",
+      "event": "International Conference on Oceanography, Marine Biology, Sustainable Fisheries, and Aquaculture",
+      "date": "",
+      "location": "",
+      "description": "Presented comprehensive analysis of Mormyridae population structure and exploitation patterns in the Niger River ecosystem."
+    },
+    {
+      "name": "Population of Mormyridae on the Niger River in Niamey Area: Diversity, Structure, and Exploitation",
+      "event": "9th World Fisheries Congress",
+      "date": "",
+      "location": "",
+      "description": "Poster presentation highlighting the ecological and economic importance of Mormyridae populations in the Niger River, discussing implications for biodiversity and resource management."
     }
-  ]
+  ],
+  "teaching": [],
+  "portfolio": []
 }
