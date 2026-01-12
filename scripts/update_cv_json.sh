@@ -31,7 +31,7 @@ python3 "$PYTHON_SCRIPT" --input "$CV_MARKDOWN" --output "$CV_JSON" --config "$C
 # Check if the conversion was successful
 if [ $? -eq 0 ]; then
   echo "Successfully updated CV JSON file at $CV_JSON"
-  
+
   # Optional: Build the Jekyll site to see the changes
   echo "Would you like to build the Jekyll site to see the changes? (y/n)"
   read -r answer
