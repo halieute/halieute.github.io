@@ -31,13 +31,13 @@ for file in g:
     data = data.to_dict()
 
     # Press on if the location is not present
-    if 'location' not in data:
+    if "location" not in data:
         continue
 
     # Prepare the description
-    title = data['title'].strip()
-    venue = data['venue'].strip()
-    location = data['location'].strip()
+    title = data["title"].strip()
+    venue = data["venue"].strip()
+    location = data["location"].strip()
     description = f"{title}<br />{venue}; {location}"
 
     # Geocode the location and report the status
@@ -49,8 +49,12 @@ for file in g:
     except GeocoderTimedOut as ex:
         print(f"Error: geocode timed out on input {location} with message {ex}")
     except Exception as ex:
-        print(f"An unhandled exception occurred while processing input {location} with message {ex}")
+        print(
+            f"An unhandled exception occurred while processing input {location} with message {ex}"
+        )
 
 # Save the map
 m = getorg.orgmap.create_map_obj()
-getorg.orgmap.output_html_cluster_map(location_dict, folder_name="talkmap", hashed_usernames=False)
+getorg.orgmap.output_html_cluster_map(
+    location_dict, folder_name="talkmap", hashed_usernames=False
+)
